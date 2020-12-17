@@ -16,7 +16,7 @@
     {</br>
       cin >> a[i]  [j];</br>
     }</br>
-  }</br>(Rum Time)
+  }</br>(Run Time)</br>
   ![image](https://github.com/akshatprogrammer/Day4-Matrices/blob/main/Microsoft%20Whiteboard%2012_17_2020%2012_19_12%20PM%20(2).png?raw=true)
   
   
