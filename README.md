@@ -29,6 +29,10 @@
  
  
 ## Address Calculation of Element in Matrix.
-  Add = Base Add + (col x i + row x j)*sizeof(datatype);</br>
+   ### For Row Major
+  Add = Base Add + (col x i + j)*sizeof(datatype);</br>
   Here i and j representing row and column of particular element</br>
-  
+### For Column Major
+  Add = Base Add + (row x j + i)*sizeof(datatype);</br>
+  Here i and j representing row and column of particular element</br>
+    
