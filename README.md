@@ -36,3 +36,6 @@
   Add = Base Add + (row x j + i)*sizeof(datatype);</br>
   Here i and j representing row and column of particular element</br>
     
+## Dynamic Memory Allocation
+   ### Using malloc()
+   ![image](https://github.com/akshatprogrammer/Day4-Matrices/blob/main/Microsoft%20Whiteboard%2012_17_2020%2012_43_51%20PM.png?raw=true)
