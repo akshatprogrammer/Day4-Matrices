@@ -1,7 +1,8 @@
 # Day4-Matrices
 
 ## What are matrices in programming?
-     A matrix is a grid used to store or display data in a structured format. ... In computing, a matrix may be used to store a group of related data.
+     A matrix is a grid used to store or display data in a structured format.
+     In computing, a matrix may be used to store a group of related data.
      For example, some programming languages support matrixes as a data type that offers more flexibility than a static array.
      
 ## Declaration
