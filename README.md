@@ -42,6 +42,8 @@
    ![image](https://github.com/akshatprogrammer/Day4-Matrices/blob/main/Microsoft%20Whiteboard%2012_17_2020%2012_43_51%20PM.png?raw=true)
    ### Using malloc() with pointer array
    ![image](https://github.com/akshatprogrammer/Day4-Matrices/blob/main/Microsoft%20Whiteboard%2012_17_2020%2012_56_15%20PM.png?raw=true)
+   
+   **Note -> arr[i]  [j] = * (* (arr + i) + j);**
 # Connect With Me
 LinkedIn : https://www.linkedin.com/in/akshat-jain-a24baa18a/<br/>
 Email : akshat.kodia@gmail.com<br/>
